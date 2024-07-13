@@ -1,0 +1,43 @@
+
+  
+  .text-neon {
+    color: #ff8888;
+    text-shadow:
+      0 0 5px #ff8888,
+      0 0 10px #ff8888,
+      0 0 20px #ff8888;
+    animation: flicker 1.5s infinite alternate;
+  }
+  /* Neon border for cards */
+.card-neon {
+    border: 2px solid #ff8888; /* Neon pink border */
+    border-radius: 25px;
+    box-shadow:
+      0 0 5px #ff8888,
+      0 0 10px #ff8888;
+    transition: all 0.3s ease-in-out;
+  }
+.neon-card{
+    border: 2px solid #ff8888; /* Neon pink border */
+    box-shadow:
+      0 0 5px #ff8888,
+      0 0 10px #ff8888;
+    transition: all 0.3s ease-in-out;
+}
+  .card-neon:hover {
+    transform: scale(1.5);
+  }
+  .w-full{
+    border-radius: 25px;
+  }
+  .neon-input {
+    border: 2px solid #ff8888; /* Neon pink border */
+    transition: border-color 0.3s ease-in-out;
+  }
+  
+  .neon-input:focus {
+    border-color: #ff8888; /* Neon pink border on focus */
+  }
+.bg-black{
+    border-bottom: 1px solid rgb(255, 225, 225);
+}
