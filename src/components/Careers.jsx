@@ -8,14 +8,14 @@ const Careers = () => {
       title: "Leads Generation Expert",
       description:
         "Join our team as a Leads Generation Expert, where you'll harness your expertise in identifying, nurturing, and converting leads into loyal customers. ",
-      applyLink: "https://example.com/apply/frontend-developer",
+      applyLink: "#",
     },
     {
       id: 2,
       title: "Digital Marketing Expert",
       description:
         "Join our marketing team as a Digital Marketing Specialist. You will develop and manage digital marketing campaigns, optimize content for search engines, and analyze campaign performance.",
-      applyLink: "https://example.com/apply/digital-marketing-specialist",
+      applyLink: "#",
     },
   ];
 
@@ -33,7 +33,7 @@ const Careers = () => {
               rel="noopener noreferrer"
               className="inline-block mt-4 text-neonPink hover:text-white transition duration-300"
             >
-              Apply Now
+              Expired
             </a>
           </div>
         ))}
