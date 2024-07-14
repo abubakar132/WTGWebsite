@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { HiMenuAlt3, HiMenuAlt1 } from "react-icons/hi";
 import ResponsiveMenu from "./ResponsiveMenu";
-import Logo from "../../assets/website/Vector.png";
+/* import Logo from "../../assets/website/Vector.png"; */
 import DarkMode from "./DarkMode";
 
 export const MenuLinks = [
@@ -45,7 +45,7 @@ const Navbar = () => {
             href="https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ?sub_confirmation=1"
             className="flex items-center gap-3"
           >
-            <img src={Logo} alt="" className="w-5" />
+  {/*           <img src={Logo} alt="" className="w-5" /> */}
             <span className="text-2xl sm:text-3xl font-semibold">
               WTG
             </span>
