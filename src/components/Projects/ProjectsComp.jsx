@@ -39,7 +39,7 @@ const allProjects = [
     author: "Someone",
     date: "April 22, 2022",
   },
-  {
+/*   {
     id: 3,
     image: Img3,
     title: "🎉 Jean Seiwe Events 🎉",
@@ -47,7 +47,7 @@ const allProjects = [
       "At WTG Studio, we designed a sleek, modern website for Jean Seiwe Events. With vibrant imagery and intuitive layout, we captured the essence of their event planning services, providing visitors with an engaging and informative experience.",
     author: "Someone",
     date: "April 22, 2022",
-  },
+  }, */
   {
     id: 4,
     image: Img4,
