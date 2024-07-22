@@ -38,6 +38,3 @@
   .neon-input:focus {
     border-color: #ff8888; /* Neon pink border on focus */
   }
-.bg-black{
-    border-bottom: 1px solid rgb(255, 225, 225);
-}
